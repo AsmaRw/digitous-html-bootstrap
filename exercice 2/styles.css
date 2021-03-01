@@ -1,0 +1,21 @@
+.row{
+    margin-bottom: 10px;
+}
+
+.yellow 
+{
+    background-color: #ffc107;
+    height: 50px;
+}
+
+.blue
+{
+    background-color: #6610f2;
+    height: 50px;
+}
+
+.red
+{
+    background-color: #dc3545;
+    height: 50px;
+}
