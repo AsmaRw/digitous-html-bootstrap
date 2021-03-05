@@ -1,33 +1,30 @@
 
-
+.box{
+    height: 50px;
+}
 .yellow 
 {
     background-color: #ffc107;
-    height: 50px;
 }
 
 .blue
 {
     background-color: #6610f2;
-    height: 50px;
 }
 
 .red
 {
     background-color: #dc3545;
-    height: 50px;
 }
 
 .green
 {
     background-color: #28a745;
-    height: 50px;
 }
 
 .grey
 {
     background-color: #6c757d;
-    height: 50px;
 }
 
 
